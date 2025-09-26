@@ -1,1 +1,5 @@
 print("concratulations on pushing first file to github")
+print("1")
+print("2")
+print("3")
+print("4")
